@@ -1,0 +1,767 @@
+[
+  {
+    "unidade":"Fatec Adamantina",
+    "endereco_linha1":"Rua Paraná, 400 (Antigo CEFAM) - Jardim BrasilCEP 17800-000 - Adamantina\/SPTelefone: (18) 3522-4181E-mail:[email protected]Site:www.fatec.edu.br\/adamantina\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=256",
+    "endereco_busca":"Rua Paraná, 400 (Antigo CEFAM) - Jardim Brasil CEP 17800-000 - Adamantina - SP",
+    "latitude":-21.6888109882,
+    "longitude":-51.0655899863
+  },
+  {
+    "unidade":"Fatec Americana - Ministro Ralph Biasi",
+    "endereco_linha1":"R. Emílio de Menezes, s\/n - Gleba B - Vila AmorimCEP 13469-111 - Americana\/SPTelefone: (19) 3406-5776 \/ (19) 3406-3297E-mail:[email protected]Site:www.fatec.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=140",
+    "endereco_busca":"R. Emílio de Menezes, s\/n - Gleba B - Vila Amorim CEP 13469-111 - Americana - SP, Brasil",
+    "latitude":-22.7406195159,
+    "longitude":-47.352341599
+  },
+  {
+    "unidade":"Fatec Araçatuba - Prof. Fernando Amaral de Almeida Prado",
+    "endereco_linha1":"Av. Prestes Maia, 1764 - Jd. IpanemaCEP 16052-045 - Araçatuba\/SPTelefone: (18) 3625-9917 \/ (18) 3625-9914E-mail:[email protected]Site:fatecaracatuba.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=180",
+    "endereco_busca":"Av. Prestes Maia, 1764 - Jd. Ipanema CEP 16052-045 - Araçatuba - SP, Brasil",
+    "latitude":-21.1824878537,
+    "longitude":-50.4509560817
+  },
+  {
+    "unidade":"Fatec Araraquara - Prof. José Arana Varela",
+    "endereco_linha1":"Rua Precide Scarpino Martim, 126 - Jd. Santa ClaraCEP 14811-373 - Araraquara\/SPTelefone: (16) 3339-7841E-mail:[email protected]Site:fatecararaquara.edu.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=252",
+    "endereco_busca":"Rua Precide Scarpino Martim, 126 - Jd. Santa Clara CEP 14811-373 - Araraquara - SP, Brasil",
+    "latitude":-21.7744327818,
+    "longitude":-48.1368074803
+  },
+  {
+    "unidade":"Fatec Araras - Antonio Brambilla",
+    "endereco_linha1":"Rua Jarbas Leme de Godoy, 875 - Jd. José Ometto IICEP 13606-389 - Araras\/SPSite:fatecararas.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=253",
+    "endereco_busca":"Rua Jarbas Leme de Godoy, 875 - Jd. José Ometto II CEP 13606-389 - Araras - SP, Brasil",
+    "latitude":-22.3546929112,
+    "longitude":-47.3346150376
+  },
+  {
+    "unidade":"Fatec Assis - Prof. Dr. José Luiz Guimarães",
+    "endereco_linha1":"Av. Dom Antônio, 2100 - Parque UniversitárioCEP 19806-173 - Assis\/SPTelefone: (18) 99657-2184E-mail:[email protected]Site:www.fatecassis.edu.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=246",
+    "endereco_busca":"Av. Dom Antônio, 2100 - Parque Universitário CEP 19806-173 - Assis - SP, Brasil",
+    "latitude":-22.6472679957,
+    "longitude":-50.437787031
+  },
+  {
+    "unidade":"Fatec Atibaia",
+    "endereco_linha1":"Avenida Jerônimo de Camargo - CaetetubaAtibaia\/SP",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=264",
+    "endereco_busca":"Avenida Jerônimo de Camargo - CaetetubaAtibaia - SP, Brasil",
+    "latitude":-23.1104370217,
+    "longitude":-46.5466028871
+  },
+  {
+    "unidade":"Fatec Barretos - Profª. Édi Salvi Lima",
+    "endereco_linha1":"Rua 18, nº 535 - CentroCEP 14780-000 - Barretos\/SPTelefone: (17) 3105-3806 \/  (17) 98165-2689E-mail:[email protected]Site:fatecbarretos.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=259",
+    "endereco_busca":"Rua 18, nº 535 - Centro CEP 14780-000 - Barretos - SP, Brasil",
+    "latitude":-20.5487610123,
+    "longitude":-48.5745330381
+  },
+  {
+    "unidade":"Fatec Barueri - Padre Danilo José de Oliveira Ohl",
+    "endereco_linha1":"Av. Carlos Capriotti, 123 - Novo Centro ComercialCEP 06401-136 - Barueri\/SPTelefone: (11) 2543-4900E-mail:[email protected]Site:www.fatecbarueri.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=227",
+    "endereco_busca":"Av. Carlos Capriotti, 123 - Novo Centro Comercial CEP 06401-136 - Barueri - SP, Brasil",
+    "latitude":-23.5083720058,
+    "longitude":-46.8647009818
+  },
+  {
+    "unidade":"Fatec Bauru",
+    "endereco_linha1":"R. Manoel Bento Cruz, 3-30 - CentroCEP 17015-171 - Bauru\/SPTelefone: (14) 3223-2083E-mail:[email protected]Site:www.fatecbauru.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=201",
+    "endereco_busca":"R. Manoel Bento Cruz, 3-30 - Centro CEP 17015-171 - Bauru - SP, Brasil",
+    "latitude":-22.3284806015,
+    "longitude":-49.0708814171
+  },
+  {
+    "unidade":"Fatec Bebedouro - Jorge Caram Sabbag",
+    "endereco_linha1":"Rua Dr. Oscar Werneck, 1286 - CentroCEP 14701-120 - Bebedouro\/SPTelefone: (17) 3343-5395 \/ (17) 3343-5397E-mail:[email protected]Site:fatecbb.cps.sp.gov.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=247",
+    "endereco_busca":"Rua Dr. Oscar Werneck, 1286 - Centro CEP 14701-120 - Bebedouro - SP, Brasil",
+    "latitude":-20.9554929896,
+    "longitude":-48.4853169827
+  },
+  {
+    "unidade":"Fatec Botucatu",
+    "endereco_linha1":"Av. José Ítalo Bacchi, s\/n - Jd. AeroportoCEP 18606-855 - Botucatu\/SPTelefone: (14) 3814-3004 \/ (14) 3813-1896E-mail:[email protected]Site:www.fatecbt.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=142",
+    "endereco_busca":"Av. José Ítalo Bacchi, s\/n - Jd. Aeroporto CEP 18606-855 - Botucatu - SP, Brasil",
+    "latitude":-22.9272177976,
+    "longitude":-48.4554447863
+  },
+  {
+    "unidade":"Fatec Bragança Paulista - Jornalista Omair Fagundes de Oliveira",
+    "endereco_linha1":"Rua das Indústrias, 130 - Uberaba - Distrito Industrial IVCEP 12926-674 - Bragança Paulista\/SPTelefone: (11) 4031-0628E-mail:[email protected]Site:www.fatecbpaulista.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=202",
+    "endereco_busca":"Rua das Indústrias, 130 - Uberaba - Distrito Industrial IV CEP 12926-674 - Bragança Paulista - SP, Brasil",
+    "latitude":-22.9216443994,
+    "longitude":-46.5444660124
+  },
+  {
+    "unidade":"Fatec Campinas",
+    "endereco_linha1":"Av. Cônego Antônio Roccatto, 593 - Jd. Santa MônicaCEP 13082-014 - Campinas\/SPTelefone: (19) 32166474E-mail:[email protected]Site:www.fateccampinas.com.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=245",
+    "endereco_busca":"Av. Cônego Antônio Roccatto, 593 - Jd. Santa Mônica CEP 13082-014 - Campinas - SP, Brasil",
+    "latitude":-22.8648119945,
+    "longitude":-47.1010839786
+  },
+  {
+    "unidade":"Fatec Capão Bonito",
+    "endereco_linha1":"R. Amantino de Oliveira Ramos, 60 - Terras de EmbiruçuCEP 18304-755 - Capão Bonito\/SPTelefone: (15) 3542-2634E-mail:[email protected]Site:www.fateccb.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=181",
+    "endereco_busca":"R. Amantino de Oliveira Ramos, 60 - Terras de Embiruçu CEP 18304-755 - Capão Bonito - SP, Brasil",
+    "latitude":-23.9901089827,
+    "longitude":-48.33525401
+  },
+  {
+    "unidade":"Fatec Carapicuíba",
+    "endereco_linha1":"Av. Francisco Pignatari, 650 - Vila Gustavo CorreiaCEP 06310-390 - Carapicuíba\/SPTelefone: (11) 4184-8404 \/ (11) 4184-8408 ramais 719, 720E-mail:[email protected]\/[email protected]Site:www.fateccarapicuiba.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=143",
+    "endereco_busca":"Av. Francisco Pignatari, 650 - Vila Gustavo Correia CEP 06310-390 - Carapicuíba - SP, Brasil",
+    "latitude":-23.5168769972,
+    "longitude":-46.835881987
+  },
+  {
+    "unidade":"Fatec Catanduva",
+    "endereco_linha1":"R. Maranhão, 898 - CentroCEP 15800-020 - Catanduva\/SPTelefone: (17) 3524-7186E-mail:[email protected]Site:www.fateccatanduva.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=203",
+    "endereco_busca":"R. Maranhão, 898 - Centro CEP 15800-020 - Catanduva - SP, Brasil",
+    "latitude":-21.135426105,
+    "longitude":-48.9732045492
+  },
+  {
+    "unidade":"Fatec Cotia",
+    "endereco_linha1":"Rua Nelson Raineri,700 - Bairro do LageadoCEP 06702-155 - Cotia\/SPTelefone: (11) 4616-3284E-mail:[email protected]Site:fateccotia.cps.sp.gov.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=243",
+    "endereco_busca":"Rua Nelson Raineri,700 - Bairro do Lageado CEP 06702-155 - Cotia - SP, Brasil",
+    "latitude":-23.5979919851,
+    "longitude":-46.9270429792
+  },
+  {
+    "unidade":"Fatec Cruzeiro - Prof. Waldomiro May",
+    "endereco_linha1":"Av. Rotary, 383 - Vila PaulistaCEP 12701-170 - Cruzeiro\/SPTelefone: (12) 3143-6571E-mail:[email protected]Site:www.fateccruzeiro.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=144",
+    "endereco_busca":"Av. Rotary, 383 - Vila Paulista CEP 12701-170 - Cruzeiro - SP, Brasil",
+    "latitude":-22.5862295219,
+    "longitude":-44.9628785252
+  },
+  {
+    "unidade":"Fatec Diadema - Luigi Papaiz",
+    "endereco_linha1":"Av. Luiz Merenda, 443 - Jardim CampanárioCEP 09931-390 - Diadema\/SPTelefone: (11) 4092-2471 \/ (11) 4092-2328E-mail:[email protected]Site:fatecdiadema.com.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=239",
+    "endereco_busca":"Av. Luiz Merenda, 443 - Jardim Campanário CEP 09931-390 - Diadema - SP, Brasil",
+    "latitude":-23.6733890063,
+    "longitude":-46.6189750129
+  },
+  {
+    "unidade":"Fatec Ferraz de Vasconcelos",
+    "endereco_linha1":"Rua Carlos de Carvalho, 200 - Jardim São JoãoCEP 08545-120 - Ferraz de Vasconcelos\/SPE-mail:[email protected]Site:fatecferraz.edu.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=254",
+    "endereco_busca":"Rua Carlos de Carvalho, 200 - Jardim São João CEP 08545-120 - Ferraz de Vasconcelos - SP, Brasil",
+    "latitude":-23.5313664244,
+    "longitude":-46.3696862095
+  },
+  {
+    "unidade":"Fatec Franca - Dr. Thomaz Novelino",
+    "endereco_linha1":"R. Irênio Grecco, 4580 - Vila ImperadorCEP 14405-191 - Franca\/SPTelefone: (16) 3702-3204E-mail:[email protected]Site:www.fatecfranca.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=204",
+    "endereco_busca":"R. Irênio Grecco, 4580 - Vila Imperador CEP 14405-191 - Franca - SP, Brasil",
+    "latitude":-20.5144260128,
+    "longitude":-47.4006329977
+  },
+  {
+    "unidade":"Fatec Franco da Rocha - Giuliano Cecchettini",
+    "endereco_linha1":"Rodovia Prefeito Luiz Salomão Chamma, nº 240 - Pouso AlegreCEP 07857-050 - Franco da Rocha\/SPTelefone: (11) 4449-2007E-mail:[email protected]Site:fatecfrancodarocha.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=255",
+    "endereco_busca":"Rodovia Prefeito Luiz Salomão Chamma, nº 240 - Pouso Alegre CEP 07857-050 - Franco da Rocha - SP, Brasil",
+    "latitude":-23.33370458,
+    "longitude":-46.6756518767
+  },
+  {
+    "unidade":"Fatec Garça - Dep. Julio Julinho Marcondes de Moura",
+    "endereco_linha1":"Av. Presidente Vargas, 2331 - José RibeiroCEP 17404-500 - Garça\/SPTelefone: (14) 3588-1800  \/ (14)3588-1801 (WhatsApp)E-mail:[email protected]Site:fatecgarca.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=145",
+    "endereco_busca":"Av. Presidente Vargas, 2331 - José Ribeiro CEP 17404-500 - Garça - SP, Brasil",
+    "latitude":-22.2329773789,
+    "longitude":-49.6453207223
+  },
+  {
+    "unidade":"Fatec Guaratinguetá - Prof. João Mod",
+    "endereco_linha1":"Av Prof. João Rodrigues Alckmin, 1501 - Jd. EsperançaCEP 12517-475 - Guaratinguetá\/SPTelefone: (12) 3126-2643 \/ (12) 3126-6905E-mail:[email protected]Site:www.fatecguaratingueta.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=147",
+    "endereco_busca":"Av Prof. João Rodrigues Alckmin, 1501 - Jd. Esperança CEP 12517-475 - Guaratinguetá - SP, Brasil",
+    "latitude":-22.7860850109,
+    "longitude":-45.1816470107
+  },
+  {
+    "unidade":"Fatec Guarulhos",
+    "endereco_linha1":"Rua Cristóbal Cláudio Elilo, 88 - Parque CecapCEP 07190-065 - Guarulhos\/SPTelefone: (11) 2229-0392 \/ (11) 2229-0393E-mail:[email protected]Site:www.fatecguarulhos.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=177",
+    "endereco_busca":"Rua Cristóbal Cláudio Elilo, 88 - Parque Cecap CEP 07190-065 - Guarulhos - SP, Brasil",
+    "latitude":-23.4544200001,
+    "longitude":-46.5015820165
+  },
+  {
+    "unidade":"Fatec Ilha Solteira",
+    "endereco_linha1":"Avenida Professor José Carlos Rossi, 1370 - Cinturão VerdeCEP 15385-470 - Ilha Solteira\/SPSite:fatecilhasolteira.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=269",
+    "endereco_busca":"Avenida Professor José Carlos Rossi, 1370 - Cinturão Verde CEP 15385-470 - Ilha Solteira - SP, Brasil",
+    "latitude":-20.3992332705,
+    "longitude":-51.3597789135
+  },
+  {
+    "unidade":"Fatec Indaiatuba - Dr. Archimedes Lammoglia",
+    "endereco_linha1":"R. D. Pedro I, 65  - Cidade Nova ICEP 13334-100 - Indaiatuba\/SPTelefone: (19) 3885-1922 \/ (19) 3885-1923E-mail:[email protected]Site:www.fatecindaiatuba.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=148",
+    "endereco_busca":"R. D. Pedro I, 65 - Cidade Nova I CEP 13334-100 - Indaiatuba - SP, Brasil",
+    "latitude":-23.0858719922,
+    "longitude":-47.202348014
+  },
+  {
+    "unidade":"Fatec Itapetininga - Prof. Antonio Belizandro Barbosa Rezende",
+    "endereco_linha1":"R. Dr. João Vieira de Camargo, 104  - Vila BarthCEP 18205-600 - Itapetininga\/SPTelefone: (15) 3272-7916 \/ Fax: (15) 3272-1165E-mail:[email protected]Site:www.fatecitapetininga.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=149",
+    "endereco_busca":"R. Dr. João Vieira de Camargo, 104 - Vila Barth CEP 18205-600 - Itapetininga - SP, Brasil",
+    "latitude":-23.6011880048,
+    "longitude":-48.0513430238
+  },
+  {
+    "unidade":"Fatec Itapevi",
+    "endereco_linha1":"Rua Vicentina Camargo Gonçalves Oliveira, 120 - Parque SuburbanoCEP 06663-565 - Itapevi\/SPTelefone: (11) 4205-8900E-mail:[email protected]Site:fatecitapevi.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=263",
+    "endereco_busca":"Rua Vicentina Camargo Gonçalves Oliveira, 120 - Parque Suburbano CEP 06663-565 - Itapevi - SP, Brasil",
+    "latitude":-23.5577179,
+    "longitude":-46.9437958
+  },
+  {
+    "unidade":"Fatec Itapira - Ogari de Castro Pacheco",
+    "endereco_linha1":"Rua Tereza Lera Paoletti, 570\/590 - Jardim Bela VistaCEP 13974-080 - Itapira\/SPTelefone: (19) 3843-1996E-mail:[email protected]Site:fatecitapira.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=248",
+    "endereco_busca":"Rua Tereza Lera Paoletti, 570\/590 - Jardim Bela Vista CEP 13974-080 - Itapira - SP, Brasil",
+    "latitude":-22.4326482675,
+    "longitude":-46.831966952
+  },
+  {
+    "unidade":"Fatec Itaquaquecetuba",
+    "endereco_linha1":"Av. Itaquaquecetuba, 711 - Vila Monte BeloCEP 08577-210 - Itaquaquecetuba\/SPTelefone: (11)  4732-9800 \/ (11) 4753-3221 whatsappE-mail:[email protected]Site:fatecitaqua.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=168",
+    "endereco_busca":"Av. Itaquaquecetuba, 711 - Vila Monte Belo CEP 08577-210 - Itaquaquecetuba - SP, Brasil",
+    "latitude":-23.4850329067,
+    "longitude":-46.3725666982
+  },
+  {
+    "unidade":"Fatec Itatiba - Maria Eunice Amadeo de Almeida",
+    "endereco_linha1":"Rua Daniel Peçanha de Moraes, 220 - Jardim SalessiCEP 13251-140 - Itatiba\/SPTelefone: (11) 4524-3221E-mail:[email protected]Site:www.fatecdeitatiba.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=251",
+    "endereco_busca":"Rua Daniel Peçanha de Moraes, 220 - Jardim Salessi CEP 13251-140 - Itatiba - SP, Brasil",
+    "latitude":-22.9959340035,
+    "longitude":-46.8471129829
+  },
+  {
+    "unidade":"Fatec Itu - Dom Amaury Castanho",
+    "endereco_linha1":"Av. Tiradentes, 1211 - Parque IndustrialCEP 13309-640 - Itu\/SPTelefone: (11) 4013-1872E-mail:[email protected]Site:www.fatecitu.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=191",
+    "endereco_busca":"Av. Tiradentes, 1211 - Parque Industrial CEP 13309-640 - Itu - SP, Brasil",
+    "latitude":-23.2864435413,
+    "longitude":-47.2924347586
+  },
+  {
+    "unidade":"Fatec Jaboticabal - Nilo de Stéfani",
+    "endereco_linha1":"Av. Eduardo Zambianchi, 31 - Vila IndustrialCEP 14883-130 - Jaboticabal\/SPTelefone: (16) 3202-7327 \/ (16) 3202-6519E-mail:[email protected]Site:www.fatecjaboticabal.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=182",
+    "endereco_busca":"Av. Eduardo Zambianchi, 31 - Vila Industrial CEP 14883-130 - Jaboticabal - SP, Brasil",
+    "latitude":-21.2506850116,
+    "longitude":-48.3062159961
+  },
+  {
+    "unidade":"Fatec Jacareí- Prof. Francisco de Moura",
+    "endereco_linha1":"Av. Faria Lima, 155 - Jardim Santa MariaCEP 12328-070 - Jacareí\/SPTelefone: (12) 3953-7926",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=236",
+    "endereco_busca":"Av. Faria Lima, 155 - Jardim Santa Maria CEP 12328-070 - Jacareí - SP, Brasil",
+    "latitude":-23.2962777367,
+    "longitude":-45.9665082105
+  },
+  {
+    "unidade":"Fatec Jales - Prof. José Camargo",
+    "endereco_linha1":"R. Vicente Leporace, 2630 - Jd. TrianonCEP 15703-116 - Jales\/SPTelefone: (17) 3624-3800E-mail:[email protected]Site:www.fatecjales.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=178",
+    "endereco_busca":"R. Vicente Leporace, 2630 - Jd. Trianon CEP 15703-116 - Jales - SP, Brasil",
+    "latitude":-20.2754582363,
+    "longitude":-50.540944695
+  },
+  {
+    "unidade":"Fatec Jahu - Octavio Celso Pacheco de Almeida Prado",
+    "endereco_linha1":"R. Frei Galvão, s\/n  - Jd. Pedro OmettoCEP 17212-599 - Jaú\/SPTelefone: (14) 3622-8280E-mail:[email protected]Site:www.fatecjahu.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=150",
+    "endereco_busca":"R. Frei Galvão, s\/n - Jd. Pedro Ometto CEP 17212-599 - Jaú - SP, Brasil",
+    "latitude":-22.3161890809,
+    "longitude":-48.5486201259
+  },
+  {
+    "unidade":"Fatec Jundiaí - Deputado Ary Fossen",
+    "endereco_linha1":"Av. União dos Ferroviários, 1760 - CentroCEP 13201160 - Jundiaí\/SPTelefone: (11) 4522-7549  \/ (11) 4523-0092E-mail:[email protected]Site:www.fatecjd.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=152",
+    "endereco_busca":"Av. União dos Ferroviários, 1760 - Centro CEP 13201160 - Jundiaí - SP, Brasil",
+    "latitude":-23.1801736285,
+    "longitude":-46.8849516328
+  },
+  {
+    "unidade":"Fatec Lins - Prof. Antonio Seabra",
+    "endereco_linha1":"Estrada Mario Covas Jr., Km 1 (Estrada Vicinal Lins - Guaímbe) - Vila GuararapesCEP 16403-025 - Lins\/SPTelefone: (14) 3523-7745 \/ (14) 3532-5182E-mail:[email protected]Site:www.fateclins.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=205",
+    "endereco_busca":"Estrada Mario Covas Jr., Km 1 (Estrada Vicinal Lins - Guaímbe) - Vila Guararapes CEP 16403-025 - Lins - SP, Brasil",
+    "latitude":-21.6894119,
+    "longitude":-49.7436348
+  },
+  {
+    "unidade":"Fatec Marília - Estudante Rafael Almeida Camarinha",
+    "endereco_linha1":"Av. Castro Alves, 62  - SomenzariCEP 17506-000 - Marília\/SPTelefone: (14) 3454-7540 \/ (14) 3454-7541E-mail:[email protected]Site:www.fatecmarilia.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=153",
+    "endereco_busca":"Av. Castro Alves, 62 - Somenzari CEP 17506-000 - Marília - SP, Brasil",
+    "latitude":-22.2078699815,
+    "longitude":-49.9541699933
+  },
+  {
+    "unidade":"Fatec Matão - Luiz Marchesan",
+    "endereco_linha1":"Avenida Habib Gabriel, 1360 - Bairro Residencial Olívio BenassiCEP 15990-539 - Matão\/SPTelefone: (16) 2016-2694E-mail:[email protected]Site:fatecmatao.cps.sp.gov.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=258",
+    "endereco_busca":"Avenida Habib Gabriel, 1360 - Bairro Residencial Olívio Benassi CEP 15990-539 - Matão - SP, Brasil",
+    "latitude":-21.6178430066,
+    "longitude":-48.3599569874
+  },
+  {
+    "unidade":"Fatec Mauá",
+    "endereco_linha1":"Av. Antonia Rosa Fioravante, 804  - CentroCEP 09390-120 - Mauá\/SPTelefone: (11) 4543-3221E-mail:[email protected]Site:www.fatecmaua.com.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=146",
+    "endereco_busca":"Av. Antonia Rosa Fioravante, 804 - Centro CEP 09390-120 - Mauá - SP, Brasil",
+    "latitude":-23.6649050914,
+    "longitude":-46.4559876987
+  },
+  {
+    "unidade":"Fatec Mococa - Mário Robertson de Sylos Filho",
+    "endereco_linha1":"Av. Dr. Américo Pereira Lima, s\/n  - Jd. LavíniaCEP 13736-260 - Mococa\/SPTelefone: (19) 3656-5559E-mail:[email protected]Site:www.fatecmococa.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=151",
+    "endereco_busca":"Av. Dr. Américo Pereira Lima, s\/n - Jd. Lavínia CEP 13736-260 - Mococa - SP, Brasil",
+    "latitude":-21.4744369129,
+    "longitude":-47.008075329
+  },
+  {
+    "unidade":"Fatec Mogi das Cruzes",
+    "endereco_linha1":"R. Carlos Barattino, 908 - Vila Nova MogilarCEP 08773-600 - Mogi das Cruzes\/SPTelefone: (11) 4699-2799E-mail:[email protected]Site:www.fatecmogidascruzes.com.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=206",
+    "endereco_busca":"R. Carlos Barattino, 908 - Vila Nova Mogilar CEP 08773-600 - Mogi das Cruzes - SP, Brasil",
+    "latitude":-23.5079219814,
+    "longitude":-46.1886450025
+  },
+  {
+    "unidade":"Fatec Mogi Mirim - Arthur de Azevedo",
+    "endereco_linha1":"Rua Ariovaldo Silveira Franco, 567 - Jd. 31 de MarçoCEP 13801-005 - Mogi Mirim\/SPTelefone: (19) 3806-2181 \/ (19) 3806-3139E-mail:[email protected]Site:fatecmm.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=176",
+    "endereco_busca":"Rua Ariovaldo Silveira Franco, 567 - Jd. 31 de Março CEP 13801-005 - Mogi Mirim - SP, Brasil",
+    "latitude":-22.4244706036,
+    "longitude":-46.9477500208
+  },
+  {
+    "unidade":"Fatec Olímpia",
+    "endereco_linha1":"Av. Governador Adhemar Pereira de Barros, km3  - Recanto Bela VistaCEP 15400-000 - Olímpia\/SPTelefone: (17) 981316485",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=267",
+    "endereco_busca":"Av. Governador Adhemar Pereira de Barros, km3 - Recanto Bela Vista CEP 15400-000 - Olímpia - SP, Brasil",
+    "latitude":-20.5963371138,
+    "longitude":-48.9764526714
+  },
+  {
+    "unidade":"Fatec Osasco - Pref. Hirant Sanazar",
+    "endereco_linha1":"R. Pedro Rissato, 30 - Vila dos RemédiosCEP 06296-220 - Osasco\/SPTelefone: (11) 3603-9910E-mail:[email protected]Site:www.fatecosasco.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=229",
+    "endereco_busca":"R. Pedro Rissato, 30 - Vila dos Remédios CEP 06296-220 - Osasco - SP, Brasil",
+    "latitude":-23.5224929981,
+    "longitude":-46.7590109663
+  },
+  {
+    "unidade":"Fatec Ourinhos",
+    "endereco_linha1":"Av. Vitalina Marcusso, 1400 - Campus UniversitárioCEP 19910206  - Ourinhos\/SPTelefone: (14) 3302-9800 \/ (14) 3302-9808 - WhatsappE-mail:[email protected]Site:www.fatecourinhos.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=154",
+    "endereco_busca":"Av. Vitalina Marcusso, 1400 - Campus Universitário CEP 19910206 - Ourinhos - SP, Brasil",
+    "latitude":-22.9515169994,
+    "longitude":-49.8965419782
+  },
+  {
+    "unidade":"Fatec Paulínia",
+    "endereco_linha1":"Avenida dos Expedicionários, 1474 - Jardim Vista AlegrePaulínia\/SPTelefone: (11) 3322-2205",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=270",
+    "endereco_busca":"Avenida dos Expedicionários, 1474 - Jardim Vista AlegrePaulínia - SP, Brasil",
+    "latitude":-22.7633382527,
+    "longitude":-47.1490250116
+  },
+  {
+    "unidade":"Fatec Pindamonhangaba - José Renato Guaycuru San Martim",
+    "endereco_linha1":"Rodovia Vereador Abel Fabricio Dias (SP 62), 4010 - Água PretaCEP 12414-000 - Pindamonhangaba\/SPTelefone: (12) 3648-8756E-mail:[email protected]Site:www.fatecpindamonhangaba.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=155",
+    "endereco_busca":"Rodovia Vereador Abel Fabricio Dias (SP 62), 4010 - Água Preta CEP 12414-000 - Pindamonhangaba - SP, Brasil",
+    "latitude":-22.9047769927,
+    "longitude":-45.4150140311
+  },
+  {
+    "unidade":"Fatec Piracicaba - Dep. Roque Trevisan",
+    "endereco_linha1":"Rua Diácono Jair de Olveira, 651 - Santa RosaCEP 13414-155 - Piracicaba\/SPTelefone: (19) 3413-1702E-mail:[email protected]Site:www.fatecpiracicaba.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=183",
+    "endereco_busca":"Rua Diácono Jair de Olveira, 651 - Santa Rosa CEP 13414-155 - Piracicaba - SP, Brasil",
+    "latitude":-22.6889750285,
+    "longitude":-47.6308856476
+  },
+  {
+    "unidade":"Fatec Pompéia - Shunji Nishimura",
+    "endereco_linha1":"Av. Shunji Nishimura 605 - Distrito IndustrialCEP 17580-000 - Pompéia\/SPTelefone: (14) 3452-1294",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=240",
+    "endereco_busca":"Av. Shunji Nishimura 605 - Distrito Industrial CEP 17580-000 - Pompéia - SP, Brasil",
+    "latitude":-22.1088165299,
+    "longitude":-50.1951692936
+  },
+  {
+    "unidade":"Fatec Porto Ferreira",
+    "endereco_linha1":"Rua Padre Nestor C. Maranhão, 40 - Jardim AeroportoCEP 13660-000 - Porto Ferreira\/SPSite:fatecportoferreira.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=266",
+    "endereco_busca":"Rua Padre Nestor C. Maranhão, 40 - Jardim Aeroporto CEP 13660-000 - Porto Ferreira - SP, Brasil",
+    "latitude":-21.8555238153,
+    "longitude":-47.450258726
+  },
+  {
+    "unidade":"Fatec Praia Grande",
+    "endereco_linha1":"Pça. 19 de Janeiro, 144  - BoqueirãoCEP 11700-100 - Praia Grande\/SPTelefone: (13) 3591-1303  \/ (13) 3591-6968E-mail:[email protected]Site:www.fatecpg.com.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=156",
+    "endereco_busca":"Pça. 19 de Janeiro, 144 - Boqueirão CEP 11700-100 - Praia Grande - SP, Brasil",
+    "latitude":-24.0047506766,
+    "longitude":-46.4130515876
+  },
+  {
+    "unidade":"Fatec Presidente Prudente",
+    "endereco_linha1":"R. Teresina, 75 - Vila Paulo RobertoCEP 19046-230 - Presidente Prudente\/SPTelefone: (18) 3916-7887E-mail:[email protected]Site:www.fatecpp.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=169",
+    "endereco_busca":"R. Teresina, 75 - Vila Paulo Roberto CEP 19046-230 - Presidente Prudente - SP, Brasil",
+    "latitude":-22.1392309955,
+    "longitude":-51.3846140222
+  },
+  {
+    "unidade":"Fatec Registro",
+    "endereco_linha1":"Av. Clara Gianotti de Souza, 257 - CentroRegistro\/SPTelefone: (13) 2130-5455",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=260",
+    "endereco_busca":"Av. Clara Gianotti de Souza, 257 - CentroRegistro - SP, Brasil",
+    "latitude":-24.4956949886,
+    "longitude":-47.846462991
+  },
+  {
+    "unidade":"Fatec Ribeirão Preto",
+    "endereco_linha1":"Av. Pio XII, 1255 - Vila VirginiaCEP 14030-250 - Ribeirão Preto\/SPTelefone: (16) 3919-2320",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=250",
+    "endereco_busca":"Av. Pio XII, 1255 - Vila Virginia CEP 14030-250 - Ribeirão Preto - SP, Brasil",
+    "latitude":-21.1868059827,
+    "longitude":-47.8336120247
+  },
+  {
+    "unidade":"Fatec Rio Claro",
+    "endereco_linha1":"Rua 2, nº 2.877 - Vila OperáriaCEP 13500-312 - Rio Claro\/SPSite:fatecrioclaro.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=265",
+    "endereco_busca":"Rua 2, nº 2.877 - Vila Operária CEP 13500-312 - Rio Claro - SP, Brasil",
+    "latitude":-22.4032150127,
+    "longitude":-47.5613409875
+  },
+  {
+    "unidade":"Fatec Santana de Parnaíba",
+    "endereco_linha1":"Av. Tenente Marques, 5136 - FazendinhaCEP 06529-001 - Santana de Parnaíba\/SPTelefone: (11) 2424-2757E-mail:[email protected]Site:www.fatecsdp.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=249",
+    "endereco_busca":"Av. Tenente Marques, 5136 - Fazendinha CEP 06529-001 - Santana de Parnaíba - SP, Brasil",
+    "latitude":-23.40585848,
+    "longitude":-46.8826523346
+  },
+  {
+    "unidade":"Fatec Santo André",
+    "endereco_linha1":"R. Prefeito Justino Paixão, 150 - CentroCEP 09020-130 - Santo André\/SPTelefone: (11) 4437-2215E-mail:[email protected]Site:www.fatecsantoandre.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=167",
+    "endereco_busca":"R. Prefeito Justino Paixão, 150 - Centro CEP 09020-130 - Santo André - SP, Brasil",
+    "latitude":-23.6596690042,
+    "longitude":-46.530496984
+  },
+  {
+    "unidade":"Fatec Baixada Santista - Rubens Lara",
+    "endereco_linha1":"Av. Senador Feijó, 350 - Vila MathiasCEP 11015-502 - Santos\/SPTelefone: (13) 3226-4100E-mail:[email protected]Site:www.fatecrl.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=141",
+    "endereco_busca":"Av. Senador Feijó, 350 - Vila Mathias CEP 11015-502 - Santos - SP, Brasil",
+    "latitude":-23.9428749885,
+    "longitude":-46.3261359587
+  },
+  {
+    "unidade":"Fatec São Bernardo do Campo - Adib Moisés Dib",
+    "endereco_linha1":"Av. Pereira Barreto, 400  - Vila Baeta NevesCEP 09751-000 - São Bernardo do Campo\/SPTelefone: (11) 4121-9008  \/ (11) 4121-8905E-mail:[email protected]Site:www.fatecsbc.cps.sp.gov.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=158",
+    "endereco_busca":"Av. Pereira Barreto, 400 - Vila Baeta Neves CEP 09751-000 - São Bernardo do Campo - SP, Brasil",
+    "latitude":-23.6953379836,
+    "longitude":-46.5493479681
+  },
+  {
+    "unidade":"Fatec São Caetano do Sul - Antonio Russo",
+    "endereco_linha1":"R. Bell Aliance, 225 - Jd. São CaetanoCEP 09581-420 - São Caetano do Sul\/SPTelefone: (11) 4239-9500E-mail:[email protected]\/[email protected]Site:fatecsaocaetano.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=179",
+    "endereco_busca":"R. Bell Aliance, 225 - Jd. São Caetano CEP 09581-420 - São Caetano do Sul - SP, Brasil",
+    "latitude":-23.6372089822,
+    "longitude":-46.5788339947
+  },
+  {
+    "unidade":"Fatec São Carlos",
+    "endereco_linha1":"Avenida Araraquara, 451 - Vila BrasíliaCEP 13566-770 - São Carlos\/SPTelefone: (16) 3307-7545E-mail:[email protected]Site:fatecsaocarlos.rf.gd\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=242",
+    "endereco_busca":"Avenida Araraquara, 451 - Vila Brasília CEP 13566-770 - São Carlos - SP, Brasil",
+    "latitude":-22.0009029806,
+    "longitude":-47.8794909585
+  },
+  {
+    "unidade":"Fatec São José do Rio Preto - Profª Olga Malluk da Silva",
+    "endereco_linha1":"R. Fernandópolis, 2510  - EldoradoCEP 15043-020 - São José do Rio Preto\/SPTelefone: (17) 3219-1433E-mail:[email protected]Site:www.fatecriopreto.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=159",
+    "endereco_busca":"R. Fernandópolis, 2510 - Eldorado CEP 15043-020 - São José do Rio Preto - SP, Brasil",
+    "latitude":-20.7938810116,
+    "longitude":-49.4002069949
+  },
+  {
+    "unidade":"Fatec São José dos Campos - Prof. Jessen Vidal",
+    "endereco_linha1":"Avenida Cesare Mansueto Giulio Lattes, 1350 - Eugênio de MeloCEP 12247-014 - São José dos Campos\/SPTelefone: (12) 3905-4979 \/ (12) 3905-2423E-mail:[email protected]\/[email protected]Site:sjc.fatec.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=160",
+    "endereco_busca":"Avenida Cesare Mansueto Giulio Lattes, 1350 - Eugênio de Melo CEP 12247-014 - São José dos Campos - SP, Brasil",
+    "latitude":-23.1618179861,
+    "longitude":-45.7953279679
+  },
+  {
+    "unidade":"Fatec de Esportes",
+    "endereco_linha1":"R. Paulo Lorenzani, s\/n - Parque Novo MundoSão Paulo\/SPTelefone: (11) 2631-6584",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=262",
+    "endereco_busca":"R. Paulo Lorenzani, s\/n - Parque Novo MundoSão Paulo - SP, Brasil",
+    "latitude":-23.5190678495,
+    "longitude":-46.5582830594
+  },
+  {
+    "unidade":"Fatec Ipiranga - Pastor Enéas Tognini",
+    "endereco_linha1":"R. Frei João, 59 - IpirangaCEP 04280-130 - São Paulo\/SPTelefone: (11) 5061-0298 \/ (11) 5061-5462E-mail:[email protected]",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=228",
+    "endereco_busca":"R. Frei João, 59 - Ipiranga CEP 04280-130 - São Paulo - SP, Brasil",
+    "latitude":-23.6099240014,
+    "longitude":-46.6078770378
+  },
+  {
+    "unidade":"Fatec Itaquera - Prof. Miguel Reale",
+    "endereco_linha1":"Av. Engenheiro Ardevan Machado, s\/n - Vila CarmosinaCEP 08295-003 - São Paulo\/SPTelefone: (11) 2056-4245E-mail:[email protected]Site:www.fatecitaquera.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=237",
+    "endereco_busca":"Av. Engenheiro Ardevan Machado, s\/n - Vila Carmosina CEP 08295-003 - São Paulo - SP, Brasil",
+    "latitude":-23.5445119819,
+    "longitude":-46.4689912459
+  },
+  {
+    "unidade":"Fatec São Paulo",
+    "endereco_linha1":"Av. Tiradentes, 615 - Bom RetiroCEP 01101-010 - São Paulo\/SPTelefone: (11) 3322-2202 \/ (11) 3322-2213E-mail:[email protected]Site:www.fatecsp.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=161",
+    "endereco_busca":"Av. Tiradentes, 615 - Bom Retiro CEP 01101-010 - São Paulo - SP, Brasil",
+    "latitude":-23.5303859848,
+    "longitude":-46.6321480119
+  },
+  {
+    "unidade":"Fatec Sebrae",
+    "endereco_linha1":"Alameda Nothman, 598 - Campos ElíseosCEP 01204-001 - São Paulo\/SPTelefone: (11) 3224-1266 \/ 3224-1267E-mail:[email protected]Site:fatecsebrae.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=244",
+    "endereco_busca":"Alameda Nothman, 598 - Campos Elíseos CEP 01204-001 - São Paulo - SP, Brasil",
+    "latitude":-23.5329117984,
+    "longitude":-46.6468466915
+  },
+  {
+    "unidade":"Fatec Tatuapé - Victor Civita",
+    "endereco_linha1":"R. Antonio de Barros, 800 - TatuapéCEP 03401-000 - São Paulo\/SPTelefone: (11) 2093-9053E-mail:[email protected]Site:www.fatectatuape.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=234",
+    "endereco_busca":"R. Antonio de Barros, 800 - Tatuapé CEP 03401-000 - São Paulo - SP, Brasil",
+    "latitude":-23.537251015,
+    "longitude":-46.5581150197
+  },
+  {
+    "unidade":"Fatec Zona Leste",
+    "endereco_linha1":"Av. Águia de Haia, 2983 - Cidade A. E. CarvalhoCEP 03694-000 - São Paulo\/SPTelefone: (11) 2040-4100E-mail:[email protected]Site:www.fateczl.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=165",
+    "endereco_busca":"Av. Águia de Haia, 2983 - Cidade A. E. Carvalho CEP 03694-000 - São Paulo - SP, Brasil",
+    "latitude":-23.5210669849,
+    "longitude":-46.4756599751
+  },
+  {
+    "unidade":"Fatec Zona Sul - Dom Paulo Evaristo Arns",
+    "endereco_linha1":"R. Frederico Grotte, 322  - Jd. São LuisCEP 05818-270 - São Paulo\/SPTelefone: (11)5851-8949E-mail:[email protected]Site:www.fateczonasul.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=166",
+    "endereco_busca":"R. Frederico Grotte, 322 - Jd. São Luis CEP 05818-270 - São Paulo - SP, Brasil",
+    "latitude":-23.6631710053,
+    "longitude":-46.7294850418
+  },
+  {
+    "unidade":"Fatec São Roque",
+    "endereco_linha1":"Rua Marechal Deodoro da Fonseca, 132 - CentroCEP 18130-070 - São Roque\/SPTelefone: (11) 4712-3229E-mail:[email protected]Site:fatecsaoroque.edu.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=241",
+    "endereco_busca":"Rua Marechal Deodoro da Fonseca, 132 - Centro CEP 18130-070 - São Roque - SP, Brasil",
+    "latitude":-23.5329959837,
+    "longitude":-47.1339700404
+  },
+  {
+    "unidade":"Fatec São Sebastião",
+    "endereco_linha1":"R. Ítalo Nascimento, 366 - Porto GrandeCEP 11608-248 - São Sebastião\/SPTelefone: (12) 3892-3015E-mail:[email protected]Site:fatecsaosebastiao.edu.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=207",
+    "endereco_busca":"R. Ítalo Nascimento, 366 - Porto Grande CEP 11608-248 - São Sebastião - SP, Brasil",
+    "latitude":-23.7935890182,
+    "longitude":-45.4026420067
+  },
+  {
+    "unidade":"Fatec Sertãozinho - Dep. Waldyr Alceu Trigo",
+    "endereco_linha1":"R. Jordão Borghetti, 480 - Jardim RecreioCEP 14170-120 - Sertãozinho\/SPTelefone: (16) 3942-5806E-mail:[email protected]Site:www.fatecsertaozinho.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=184",
+    "endereco_busca":"R. Jordão Borghetti, 480 - Jardim Recreio CEP 14170-120 - Sertãozinho - SP, Brasil",
+    "latitude":-21.1408430204,
+    "longitude":-48.000504015
+  },
+  {
+    "unidade":"Fatec Sorocaba - José Crespo Gonzales",
+    "endereco_linha1":"Av. Eng. Carlos Reinaldo Mendes, 2015 - Alto da Boa VistaCEP 18013280  - Sorocaba\/SPTelefone: (15) 3228-2366 \/ (15) 3238-5263 WhatsAppE-mail:[email protected]\/[email protected]Site:www.fatecsorocaba.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=162",
+    "endereco_busca":"Av. Eng. Carlos Reinaldo Mendes, 2015 - Alto da Boa Vista CEP 18013280 - Sorocaba - SP, Brasil",
+    "latitude":-23.4824720088,
+    "longitude":-47.4259340239
+  },
+  {
+    "unidade":"Fatec Sumaré (Região de Campinas)",
+    "endereco_linha1":"Rua Rafael Rossi, 197 - Jardim Luiz Cia - Caixa Postal 02242-010CEP 13175-270 - Sumaré\/SPTelefone: (19) 3903-9401E-mail:[email protected]Site:www.fatecsumare.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=257",
+    "endereco_busca":"Rua Rafael Rossi, 197 - Jardim Luiz Cia - Caixa Postal 02242-010 CEP 13175-270 - Sumaré - SP, Brasil",
+    "latitude":-22.8141576082,
+    "longitude":-47.2507249908
+  },
+  {
+    "unidade":"Fatec Suzano",
+    "endereco_linha1":"Av. Mogi das Cruzes, 1440 - Parque SuzanoCEP 08673-010 - Suzano\/SPTelefone: (11) 99916-5345E-mail:[email protected]Site:fatecsuzano.cps.sp.gov.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=271",
+    "endereco_busca":"Av. Mogi das Cruzes, 1440 - Parque Suzano CEP 08673-010 - Suzano - SP, Brasil",
+    "latitude":-23.5348073753,
+    "longitude":-46.32748862
+  },
+  {
+    "unidade":"Fatec Taquaritinga - Marlene Maria Miletta Servidoni",
+    "endereco_linha1":"Av. Dr. Flávio Henrique Lemos, 585 - Portal ItamaracáCEP 15906-522 - Taquaritinga\/SPTelefone: (16) 3252-5250  \/ (16) 3252-5193 \/ (16) 3252-5152E-mail:[email protected]Site:www.fatectq.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=163",
+    "endereco_busca":"Av. Dr. Flávio Henrique Lemos, 585 - Portal Itamaracá CEP 15906-522 - Taquaritinga - SP, Brasil",
+    "latitude":-21.428795275,
+    "longitude":-48.5144867968
+  },
+  {
+    "unidade":"Fatec Tatuí - Prof. Wilson Roberto Ribeiro de Camargo",
+    "endereco_linha1":"Rod. Mário Batista Mori, 971 - Jardim AeroportoCEP 18280-000 - Tatuí\/SPTelefone: (15) 3205-7780E-mail:[email protected]\/[email protected]Site:www.fatectatui.edu.br",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=164",
+    "endereco_busca":"Rod. Mário Batista Mori, 971 - Jardim Aeroporto CEP 18280-000 - Tatuí - SP, Brasil",
+    "latitude":-23.3311734558,
+    "longitude":-47.8649308383
+  },
+  {
+    "unidade":"Fatec Taubaté",
+    "endereco_linha1":"Av. Tomé Portes Del Rei, 525 - Vila São JoséCEP 12070-610 - Taubaté\/SPTelefone: (12) 3602-2708 \/ (12) 3602-2709E-mail:[email protected]Site:fatectaubate.edu.br\/",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=235",
+    "endereco_busca":"Av. Tomé Portes Del Rei, 525 - Vila São José CEP 12070-610 - Taubaté - SP, Brasil",
+    "latitude":-23.0142739848,
+    "longitude":-45.537792987
+  },
+  {
+    "unidade":"Fatec Votorantim",
+    "endereco_linha1":"Av. Juscelino Kubitschek de Oliveira, 279 - ProtestantesCEP 18110-008 - Votorantim\/SPE-mail:[email protected]",
+    "endereco_linha2":null,
+    "url":"https:\/\/vestibular.fatec.sp.gov.br\/unidades-cursos\/escola.asp?c=261",
+    "endereco_busca":"Av. Juscelino Kubitschek de Oliveira, 279 - Protestantes CEP 18110-008 - Votorantim - SP, Brasil",
+    "latitude":-23.5316529933,
+    "longitude":-47.4493959767
+  }
+]
