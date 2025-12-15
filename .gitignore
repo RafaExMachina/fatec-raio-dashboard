@@ -1,0 +1,21 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Tokens e chaves
+github_pat_*
+*.key
+*.pem
+*.pub
+
+# Arquivos temporários
+tempCodeRunnerFile.py
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+
